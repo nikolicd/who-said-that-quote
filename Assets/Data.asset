@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04924ae394fd5674d9848ccdcac5fd9e, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  games:
+  - name: Aging Quotes
+    data:
+    - part1: Old age is no place for sissies.
+      part2: Bette Davis
+    - part1: Age is an issue of mind over matter. If you don't mind, it doesn't matter.
+      part2: Mark Twain
+    - part1: You can't help getting older, but you don't have to get old.
+      part2: George Burns
+    - part1: Middle age is youth without levity, and age without decay.
+      part2: Doris Day
+    - part1: Youth is wasted on the young.
+      part2: George Bernard Shaw
+    - part1: Let age, not envy, draw wrinkles on thy cheeks.
+      part2: Thomas Browne
+    - part1: Age is not important unless you're a cheese.
+      part2: Helen Hayes
+    - part1: The secret of staying young is to live honestly, eat slowly, and lie
+        about your age.
+      part2: Lucille Ball
+    - part1: An archaeologist is the best husband a woman can have. The older she
+        gets the more interested he is in her.
+      part2: Agatha Christie
+    - part1: Wrinkles should merely indicate where smiles have been.
+      part2: Mark Twain
+    - part1: I think your whole life shows in your face and you should be proud of
+        that.
+      part2: Lauren Bacall
+    - part1: Middle age is when your age starts to show around your middle.
+      part2: Bob Hope
+    - part1: Age is how we determine how valuable you are.
+      part2: Jane Elliot
+    - part1: You only live once, but if you do it right, once is enough.
+      part2: Mae West
+    - part1: We don't stop going to school when we graduate.
+      part2: Carol Burnett
+  - name: Fun Quotes
+    data:
+    - part1: If opportunity doesn't knock, build a door.
+      part2: Milton Berle
+    - part1: Just don't give up trying to do what you really want to do. Where there
+        is love and inspiration, i don't think you can go wrong.
+      part2: Ella Fitzgerald
+    - part1: I refus to join any club that would have me as a member.
+      part2: Groucho Max
+    - part1: My psychiatrist told me i was crazy and i said i want a second option.
+        He said okay, you're ugly too.
+      part2: Rodney Dangerfield
+    - part1: If you can't dazzle them with brilliance, baffle them with bull.
+      part2: W.C.Fields
+    - part1: When i read about evils of drinking, i gave up reading.
+      part2: Henny Youngman
+    - part1: Happines is having a large, loving, caring, close-knit family in another
+        city.
+      part2: George Burns
+    - part1: If you don't mind, it doesn't matter.
+      part2: Jack Benny
+    - part1: I always wanted to be somebody, but now i realize i should have been
+        more specific.
+      part2: Lily Tomlin
+    - part1: I am a marvelous housekeeper. Every time i leave a man i keep his house.
+      part2: Zsa Zsa Gabor
+    - part1: I'd luv to kiss ya, but i just washed my hair.
+      part2: Bette Davis
+    - part1: Between two evils, i always pick one i never tried before.
+      part2: Mae West
+    - part1: They say marriages are made in Heaven. But so is thunder and lightning.
+      part2: Clint Eastwood
+    - part1: When God sneezed, i didn't know what to say
+      part2: Henny Youngman
+  - name: Inspirational Quotes
+    data:
+    - part1: I can't change the direction of the wind, but i can adjust my sails
+        to always reach my destination.
+      part2: Jimmy Dean
+    - part1: Even if i knew that tommor the world would go to pieces, i would still
+        plant my apple tree.
+      part2: Martin Luther
+    - part1: A champion is someone who gets up when he can't.
+      part2: Jack Dempsey
+    - part1: Be brave enough to live life creatively. The creative place where no
+        one else has ever been.
+      part2: Alan Alda
+    - part1: When you have a dream, you've got ti grab it and never let go.
+      part2: Carol Burnett
+    - part1: Two roads diverged into a wood and I - I took the one less traveled
+        by, and that has made all the difference.
+      part2: Robert Frost
+    - part1: Whoever is happy will make others happy too.
+      part2: Anne Frank
+    - part1: The best way is always through.
+      part2: Robert Frost
+    - part1: You must do the things you think you cannot do.
+      part2: Eleanor Roosevelt
+    - part1: I believe in living today. Not in yesterday, nor in tomorrow.
+      part2: Loretta Young
+    - part1: Vitality shows in not only the ability to persist but the ability to
+        start over.
+      part2: F.Scoot Fitzgerald
+    - part1: Love is a fruit in season at all times, and within reach of every hand.
+      part2: Mother Teresa
+    - part1: The hymn 'Amazing Grace' is so inspirational - I wish I'd written it.
+      part2: Neil Sedaka
+    - part1: If opportunity doesn't knock, build a door.
+      part2: Milton Berle
+    - part1: Nothing is impossible, the word itself says 'I'm possible'!
+      part2: Audrey Hepburn
